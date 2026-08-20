@@ -1,5 +1,5 @@
 # ImgTranz
-100% on-device, privacy-first Chrome Extension for instant background cutout (PNG), SVG vector tracing (WASM), and WebP to PNG conversion directly from your right-click menu.
+100% on-device, privacy-first Chrome/ Edge Extension for instant background cutout (PNG), SVG vector tracing (WASM), and WebP to PNG conversion directly from your right-click menu.
 ---
 ## 🚀 Overview
 **ImgTranz** is a lightweight, ultra-fast Chrome/Edge extension that brings professional background removal, high-precision SVG vector tracing, and lossless image conversion directly into your browser's right-click context menu.
