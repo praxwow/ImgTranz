@@ -50,6 +50,6 @@ ImgTranz is ready to use! Right-click any image to try it out.
 ☕ Support the Project
 ImgTranz is free, open-source, and created with passion. If you find it helpful in your daily workflow, consider buying me a coffee:
 
-☕ Made with ❤️ by PraxWow
+Made with ❤️ by PraxWow
 
 
