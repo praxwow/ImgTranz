@@ -1,0 +1,19 @@
+{
+  "name": "imgtranz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build && node scripts/copy-models.mjs"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@imgly/background-removal": "^1.7.0",
+    "@visioncortex/vtracer": "^0.6.0",
+    "onnxruntime-web": "^1.17.3",
+    "vite-plugin-top-level-await": "^1.6.0",
+    "vite-plugin-wasm": "^3.6.0"
+  }
+}
