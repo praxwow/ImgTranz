@@ -3,7 +3,8 @@
 ---
 ## 🚀 Overview
 **ImgTranz** is a lightweight, ultra-fast Chrome extension that brings professional background removal, high-precision SVG vector tracing, and lossless image conversion directly into your browser's right-click context menu.
-Unlike other tools that upload your images to third-party cloud servers, **ImgTranz runs 100% locally on your machine** using WebAssembly (WASM) and on-device neural acceleration. Zero bandwidth used, zero data uploaded, and 100% private.
+Unlike other tools that upload your images to third-party cloud servers, **ImgTranz runs 100% locally on your machine** using WebAssembly (WASM) and on-device neural acceleration. 
+Zero bandwidth used, zero data uploaded, and 100% private.
 ---
 ## ✨ Features
 - ✂️ **Instant Subject Cutout → Transparent PNG**
@@ -25,9 +26,9 @@ Unlike other tools that upload your images to third-party cloud servers, **ImgTr
 ---
 ## 🖱️ Context Menu Workflow
 Simply right-click any image on the web:
-ImgTranz ├── Extract subject → Transparent PNG (Full color & detail preservation) ├── Extract subject → SVG (vector) (Crisp high-precision spline curves) ├── Convert WebP → Transparent PNG (Instant lossless alpha conversion) ─────────────────────────────────────── └── ☕ Made with ❤️ by PraxWow
-
-
+ImgTranz - Extract subject → Transparent PNG (Full color & detail preservation)
+Extract subject → SVG (vector) (Crisp high-precision spline curves) 
+Convert WebP → Transparent PNG (Instant lossless alpha conversion) ─
 
 ---
 ## 🛠️ Tech Stack & Architecture
@@ -45,9 +46,10 @@ chrome://extensions/
 Enable Developer mode toggle in the top-right corner.
 Click Load unpacked and select the dist/ directory inside this repo.
 ImgTranz is ready to use! Right-click any image to try it out.
+
 ☕ Support the Project
 ImgTranz is free, open-source, and created with passion. If you find it helpful in your daily workflow, consider buying me a coffee:
 
-Buy Me a Coffee
+☕ Made with ❤️ by PraxWow
 
-Support PraxWow on Ko-fi
+
